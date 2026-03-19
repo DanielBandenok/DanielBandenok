@@ -5,12 +5,8 @@
 
 ---
 ### 📕 Subjects I'm intrested in
-- Data Science
 - Machine Learning
+- Data Science
 - Higher Mathematics
-### 🚀 Projects
-- 
-- 
-### 💬 Ask me about ...
 
 
