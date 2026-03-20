@@ -4,9 +4,10 @@
 <h3 align="center">Computer Science student at Russia 🇷🇺</h3>
 
 ---
-### 📕 Subjects I'm intrested in
+<!-- ### 📕 Subjects I'm intrested in
 - Machine Learning
 - Data Science
-- Higher Mathematics
+- Higher Mathematics -->
+
 
 
